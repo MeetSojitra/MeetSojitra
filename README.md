@@ -9,8 +9,8 @@
 
 <h2 align="left">🤝🏻 Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/mitsu-sojitra-5b98a6202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@meetsojitra15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mitsu sojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitsu sojitra" height="30" width="40" /></a>
+<a href="https://twitter.com/MeetSojitra15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@meetsojitra15" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mitsu-sojitra-5b98a6202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitsu sojitra" height="30" width="40" /></a>
 <a href="https://instagram.com/meet.__137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meet.__137" height="30" width="40" /></a>
 
 <h2 align="left">🧑🏻‍💻 Coding Platform: </h2>
