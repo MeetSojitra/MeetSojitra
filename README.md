@@ -15,6 +15,8 @@
 
 <h2 align="left">🧑🏻‍💻 Coding Platform: </h2>
 <a href="https://www.codechef.com/users/meetsojitra137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meetsojitra137" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/meetsojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meetsojitra" height="30" width="40" /></a>
+</p>
 <a href="https://codeforces.com/profile/mitsu_sojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mitsu_sojitra" height="30" width="40" /></a>
 </p>
 
