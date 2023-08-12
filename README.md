@@ -1,5 +1,5 @@
 <h1 >Hi there 👋, I'm Mitsu Sojitra</h1>
-<h3 align="center">To obtain a position where I can effectively contribute my skills and abilities to the organization's growth while also advancing my professional career. And Enthusiast for great opportunities and discover the new technology.</h3>
+<h3 >To obtain a position where I can effectively contribute my skills and abilities to the organization's growth while also advancing my professional career. And Enthusiast for great opportunities and discover the new technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetsojitra&label=Profile%20views&color=94d6ff&style=plastic" alt="meetsojitra" /> </p>
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/meetsojitra15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meetsojitra15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mitsu-sojitra-5b98a6202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mitsu-sojitra-5b98a6202/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mitsu-sojitra-5b98a6202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitsu sojitra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/meetsojitra137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meetsojitra137" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mitsu_sojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mitsu_sojitra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/meetsojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meetsojitra" height="30" width="40" /></a>
