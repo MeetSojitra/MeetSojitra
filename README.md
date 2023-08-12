@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mitsu Sojitra</h1>
+<h1>Hi there 👋, I'm Mitsu Sojitra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetsojitra&label=Profile%20views&color=94d6ff&style=plastic" alt="meetsojitra" /> </p>
 
 - 🌱 I’m currently learning **as much I can 😀**
